@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Julio 👋
 
-<!--
-**juliobonon/juliobonon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobonon&show_icons=true&count_private=true&theme=radical)
 
-Here are some ideas to get you started:
+📖 I'm currently studying Software Development at [Fatec Campinas](https://www.fateccampinas.com.br/site/) <br>
+🔭 I’m currently working at [Toradex](https://www.toradex.com/) <br>
+🌱 I’m currently learning about Embedded Linux, Flutter, Python, Docker. <br>
+🤘🏻 Ping me about: **Music**, **Games**, **Open Source**, **Trips** and **Cats**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Find me on:
+
+Running some crazy containers on my [DockerHub](https://hub.docker.com/u/reininy) 🐋  <br>
+Sharing professional content on [LinkedIn](https://www.linkedin.com/in/julio-bonon-340806122/) 🧑🏼‍🎓

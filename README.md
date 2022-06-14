@@ -4,7 +4,7 @@
 
 📖 I'm currently studying Software Development at [Fatec Campinas](https://www.fateccampinas.com.br/site/) <br>
 🔭 I’m currently working at [Belvo](https://belvo.com) <br>
-🌱 I’m currently learning about Scraping, Python, Docker, Flutter and Linux <br>
+🌱 I’m currently learning about Scraping, Python, Docker, Clean Code and Linux <br>
 🤘🏻 Ping me about: **Music**, **Games**, **Open Source**, **Trips** and **Cats**.
 
 ### 📫 Find me on:

@@ -2,9 +2,9 @@
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobonon&show_icons=true&count_private=true&theme=radical)
 
-📖 I'm currently studying Software Development at [Fatec Campinas](https://www.fateccampinas.com.br/site/) <br>
+📖 Studied System analysis and development at [Fatec Campinas](https://www.fateccampinas.com.br/site/) <br>
 🔭 I’m currently working at [Belvo](https://belvo.com) <br>
-🌱 I’m currently learning about Scraping, Python, Docker, Clean Code and Linux <br>
+🌱 I’m currently learning about Scraping, Python, Docker, Clean Code, Linux and Offensive Security <br>
 🤘🏻 Ping me about: **Music**, **Games**, **Open Source**, **Trips** and **Cats**.
 
 ### 📫 Find me on:
